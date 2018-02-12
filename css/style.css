@@ -1,0 +1,52 @@
+
+body { font-family: "宋体"; font-size: 9pt;BACKGROUND-COLOR:#cccccc}
+table { font-family: "宋体"; font-size: 9pt}
+.tbl { BORDER-top:#3185b1 1px solid;BORDER-right: #3185b1 1px solid;
+	   BORDER-bottom: #3185b1 1px solid; BORDER-left: #3185b1 1px solid 
+}
+.lrb { BORDER-right: #3185b1 1px solid;
+	   BORDER-bottom: #3185b1 1px solid; BORDER-left: #3185b1 1px solid 
+}
+.rtb { BORDER-right: #3185b1 1px solid;
+	   BORDER-bottom: #3185b1 1px solid; BORDER-top: #3185b1 1px solid 
+}
+.rt { BORDER-top:#3185b1 1px solid;BORDER-right: #3185b1 1px solid;
+}
+.tb { BORDER-top:#3185b1 1px solid;BORDER-bottom: #3185b1 1px solid;
+}
+.left { BORDER-left: #3185b1 1px solid}
+.right { BORDER-right: #3185b1 1px solid}
+.top { BORDER-top: #3185b1 1px solid}
+.bottom { BORDER-bottom: #3185b1 1px solid}
+
+.br  { BORDER-bottom: #3185b1 1px solid; BORDER-right: #3185b1 1px solid}
+.lr { BORDER-left: #3185b1 1px solid; BORDER-right: #3185b1 1px solid}
+a:link { font-size: 9pt; color: #000000; text-decoration: none}
+a:visited { font-size: 9pt; color: #000000; text-decoration: none}
+a:hover { font-size: 9pt; color: #000000; text-decoration: underline}
+a:active { font-size: 9pt; color: #000000; text-decoration: none}
+.selected {
+	COLOR: #000000; FONT-SIZE: 12px; LINE-HEIGHT: 20px; TEXT-DECORATION: none;
+	BACKGROUND-COLOR:#ffffff;COLOR: #000000; FONT-SIZE: 9pt;
+	BORDER-BOTTOM: #000000 1px solid; BORDER-LEFT: black 1px solid; BORDER-RIGHT: black 1px solid; BORDER-TOP: black 1px solid
+}
+.textarea {
+	BORDER-RIGHT: #b1b8c2 1px solid; PADDING-RIGHT: 1px; BORDER-TOP: #b1b8c2 1px solid; PADDING-LEFT: 1px; FONT-SIZE: 12px; PADDING-BOTTOM: 1px; BORDER-LEFT: #b1b8c2 1px solid; COLOR: #085878; PADDING-TOP: 1px; BORDER-BOTTOM: #b1b8c2 1px solid; FONT-FAMILY: "宋体"; BACKGROUND-COLOR: #ffffff
+}
+.button {
+	 BORDER-RIGHT: #333333 1px ridge; PADDING-RIGHT: 1px; BORDER-TOP: #ffffff 1px ridge; PADDING-LEFT: 1px; FONT-SIZE: 9pt; PADDING-BOTTOM: 1px; BORDER-LEFT: #ffffff 1px ridge; CURSOR: hand; COLOR: #000000; PADDING-TOP: 1px; BORDER-BOTTOM: #000000 1px ridge; FONT-FAMILY: "宋体"; width:100px;HEIGHT: 30px; BACKGROUND-COLOR: #f1f1f1
+}
+.searchButton {
+	 BORDER-RIGHT: #333333 1px ridge; PADDING-RIGHT: 1px; BORDER-TOP: #ffffff 1px ridge; PADDING-LEFT: 1px; FONT-SIZE: 9pt; PADDING-BOTTOM: 1px; BORDER-LEFT: #ffffff 1px ridge; CURSOR: hand; COLOR: #000000; PADDING-TOP: 1px; BORDER-BOTTOM: #000000 1px ridge; FONT-FAMILY: "宋体"; BACKGROUND-COLOR: #f1f1f1
+}
+
+.REDCOLORSTYLE 
+{
+	color: #892B2C;
+}
+
+.submit {
+	BORDER-RIGHT: #215396 1px solid; BORDER-TOP: #e3ecfa 1px solid; FONT-SIZE: 12px; BORDER-LEFT: #e3ecfa 1px solid; COLOR: #ffffff; BORDER-BOTTOM: #215396 1px solid; HEIGHT: 20px; BACKGROUND-COLOR: #5f94dc
+}
+
+
